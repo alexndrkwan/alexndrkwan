@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... staying hydrated
 - 🌱 I’m currently learning ... Comp Sci
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... akwan@buffalo.edu
+- 📫 How to reach me ... Alexkwan100@gmail.com
 
 <!---
 alexndrkwan/alexndrkwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
